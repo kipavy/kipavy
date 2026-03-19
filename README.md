@@ -18,18 +18,18 @@
 
 <!-- <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a> -->
 
+
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![React](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg)
-![Node.js](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg)
 ![Express.js](https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express1.svg)
 ![Vite](https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs1.svg)
 ![MongoDB](https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb1.svg)
-![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
 ![Python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg)
 ![Bash](https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell3.svg)
 ![Docker](https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg)
-![HTML5](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)
-![CSS3](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg)
-![Git](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg)
 ![VSCode](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg)
 
 <!-- RECTANGLE BADGES OLD STYLE -->
