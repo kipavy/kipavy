@@ -65,9 +65,7 @@
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-  <p align="left">
-    <a href="https://github.com/kipavy/Ant_Colony"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=kipavy&repo=Ant_Colony&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
-  </p>
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=VoltiusApp&repo=voltius&theme=radical)
 
 <a href="https://github.com/kipavy?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 
@@ -76,29 +74,20 @@
 ## 📕 Projects I've Contributed To
 
   <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
-  <p align="left">
-    <a href="https://github.com/CEA-MetroCarac/pyvsnr"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=CEA-MetroCarac&repo=pyvsnr&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=true" alt="flask"></a>
-  </p>
-
-  <p align="left">
-    <a href="https://github.com/CEA-MetroCarac/ued_centering"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=CEA-MetroCarac&repo=ued_centering&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask"></a>
-  </p>
-
-  <!-- <p align="left">
-    <a href="https://github.com/DenverCoderOne/My-Contributions/blob/main/README.md"><img alt="All Forks" title="All Forks" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Forks-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
-  </p> -->
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=CEA-MetroCarac&repo=fitspy&theme=radical)
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=CEA-MetroCarac&repo=pyvsnr&theme=radical)
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=CEA-MetroCarac&repo=ued_centering&theme=radical)
+  
 </details>
   <!-- <h3>🔥 Streak Stats</h3> -->
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 
 ## 💻 GitHub Profile Stats
-
-  <!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=kipavy&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a> -->
-  <!-- TODO METTRE LES STATS EN LARGEUR -->
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kipavy&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
+<!--
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kipavy&layout=compact&theme=dracula)
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
+-->
   <p>
     <img alt="streak" src="https://streak-stats.demolab.com/?user=kipavy&theme=monokai-metallian&hide_border=true"/>
   </p>
