@@ -69,6 +69,9 @@
 
 <a href="https://github.com/kipavy?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 
+Also some projects on Gitlab:
+- https://gitlab.com/yoanncure/gpu_installer#gpu_installer
+
 </details>
 
 ## 📕 Projects I've Contributed To
@@ -77,6 +80,9 @@
   ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=CEA-MetroCarac&repo=fitspy&theme=radical)
   ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=CEA-MetroCarac&repo=pyvsnr&theme=radical)
   ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=CEA-MetroCarac&repo=ued_centering&theme=radical)
+  
+  Also some projects on Gitlab:
+  - https://gitlab.com/yoanncure/ontoflow_core
   
 </details>
   <!-- <h3>🔥 Streak Stats</h3> -->
