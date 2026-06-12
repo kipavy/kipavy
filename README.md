@@ -65,7 +65,7 @@
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=VoltiusApp&repo=voltius&theme=radical)
+  [![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=VoltiusApp&repo=voltius&theme=radical)](https://github.com/VoltiusApp/voltius)
 
 <a href="https://github.com/kipavy?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 
@@ -77,9 +77,9 @@ Also some projects on Gitlab:
 ## 📕 Projects I've Contributed To
 
   <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
-  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=CEA-MetroCarac&repo=fitspy&theme=radical)
-  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=CEA-MetroCarac&repo=pyvsnr&theme=radical)
-  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=CEA-MetroCarac&repo=ued_centering&theme=radical)
+  [![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=CEA-MetroCarac&repo=fitspy&theme=radical)](https://github.com/CEA-MetroCarac/fitspy)
+  [![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=CEA-MetroCarac&repo=pyvsnr&theme=radical)](https://github.com/CEA-MetroCarac/pyvsnr)
+  [![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=CEA-MetroCarac&repo=ued_centering&theme=radical)](https://github.com/CEA-MetroCarac/ued_centering)
   
   Also some projects on Gitlab:
   - https://gitlab.com/yoanncure/ontoflow_core
