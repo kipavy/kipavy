@@ -98,13 +98,7 @@ Also some projects on Gitlab:
     <img alt="streak" src="https://streak-stats.demolab.com/?user=kipavy&theme=monokai-metallian&hide_border=true"/>
   </p>
 
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=kipavy&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-
-## 🧊 3D Contribution Graph
-
-<!-- Generated daily by .github/workflows/isometric-contrib.yml (yoshi389111/github-profile-3d-contrib) -->
-<p align="center">
+  <!-- 3D contribution graph — generated daily by .github/workflows/isometric-contrib.yml -->
   <img alt="3D Contribution Graph" src="./profile-3d-contrib/profile-night-view.svg" />
-</p>
 
 </details>
