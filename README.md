@@ -19,7 +19,13 @@
 <!-- <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a> -->
 
 
-[![Skills](https://skillicons.dev/icons?i=kubernetes,terraform,ansible,githubactions,react,express,vite,mongodb,python,bash,docker,vscode)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=ts,python,rust,bash)](https://skillicons.dev)
+
+[![Frontend & Backend](https://skillicons.dev/icons?i=react,vite,tauri,qt,express)](https://skillicons.dev)
+
+[![Data](https://skillicons.dev/icons?i=postgres,mongodb,redis,rabbitmq)](https://skillicons.dev)
+
+[![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,githubactions,jenkins,cloudflare,grafana)](https://skillicons.dev)
 
 <!-- RECTANGLE BADGES OLD STYLE -->
 <!-- ![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge)
